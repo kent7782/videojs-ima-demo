@@ -1,0 +1,13 @@
+body {
+  font-size: 18px;
+  font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+.video-container {
+  margin: 30px 0;
+}
